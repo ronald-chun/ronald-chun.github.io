@@ -6,7 +6,7 @@
   "author": "Ronald Wong",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base dist",
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base .",
     "build": "webpack --mode production"
   },
   "devDependencies": {
